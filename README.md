@@ -1,8 +1,15 @@
 # Communication-Overhead-in-Microservices
-🚀 Lightweight Microservices with NATS &amp; SQLite3 🏗️ Build a scalable microservices architecture using NATS for messaging and SQLite3 for caching. This project demonstrates efficient inter-service communication with Python-based order, inventory, and payment services.
+# 🚀 Microservices with NATS & SQLite3
+
+## 📌 Overview
+This project demonstrates a **Microservices-based architecture** using:
+- **NATS** for messaging between services
+- **SQLite3** as a lightweight cache
+
+## 🛠️ Tech Stack
+- **Backend:** Python (Flask, NATS Client)
+- **Message Broker:** NATS
+- **Database:** SQLite3
+- **Orchestration:** Docker (Optional)
 
 
-✨ Fast | Scalable | Minimal Dependencies 🚀
-
-🔹 Tech Stack: Python, Flask, NATS, SQLite3
-🔹 Features: Event-driven messaging, in-memory caching, lightweight & modular design
